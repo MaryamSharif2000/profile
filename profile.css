@@ -1,0 +1,42 @@
+body{
+  font-family: 'Playfair Display', serif;
+}
+
+#backG{
+  background-color: #FEFAE0;
+  border: solid 5px #D4A373;
+  border-radius: 40px;
+  margin: 0px 450px;
+  padding: 30px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img{
+  width: 250px;
+  border-radius: 40px;
+  border: solid 5px #D4A373;
+}
+
+h1{
+  color: #333D29;
+}
+
+h2{
+  color: #414833;
+}
+
+ul{
+  color: #414833;
+}
+
+li{
+  font-size: 24px;
+}
+
+a{
+  color: #D4A373;
+  font-size: 20px;
+}
